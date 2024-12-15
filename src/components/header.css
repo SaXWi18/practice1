@@ -1,0 +1,18 @@
+.headerClass{
+    width: 100%;
+    height: 92.5vh;
+    background-image: url('https://i.pinimg.com/736x/0c/ad/9c/0cad9cefdee314e305a5e77be7fbe24c.jpg');
+    background-size: cover;
+    background-position: center;
+    padding-top: -50px;
+}
+
+h2{
+    font-weight: 700;
+    font-size: 55px;
+}
+
+p{
+    font-weight: 500;
+    font-size: 15px;
+}

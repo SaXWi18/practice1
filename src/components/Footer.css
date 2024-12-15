@@ -1,0 +1,21 @@
+.FooterSec{
+    background-image: url('https://i.pinimg.com/736x/57/7f/e6/577fe64353281fa20b0cb4b777da2189.jpg');
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+}
+
+ul{
+    list-style: none;
+}
+
+.firstSec{
+    text-align: start;
+}
+
+.ps-max{
+    padding-left: 100px !important;
+}
+
+li{
+    text-align: start;
+}
